@@ -1,2 +1,2 @@
 # APPS
-Django Apps 
+Django Blog app
